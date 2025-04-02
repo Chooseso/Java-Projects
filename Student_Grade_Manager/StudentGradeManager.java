@@ -82,7 +82,7 @@ public class StudentGradeManager {
 
         StudentGradeManager student2 = new StudentGradeManager(studentName, fourGrades); // Create second student object
         student2.displayStudentDetails(); // Display second student details
-        
+
         // Calculate and display average for four grades using the overloaded method
         double averageFourGrades = calculateAverage(fourGrades[0], fourGrades[1], fourGrades[2], fourGrades[3]);
         System.out.printf("Average for 4 grades: %.2f\n", averageFourGrades);
