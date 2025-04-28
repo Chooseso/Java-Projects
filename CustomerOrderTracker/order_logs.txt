@@ -1,0 +1,1 @@
+Customer: JohnRoy, ID: 110, Status: Cancelled, Total: ₱600.0, Products: Bag (Qty: 2)
